@@ -30,13 +30,17 @@ if (isValidEmail($email)) {
 ```
 ## Work Experience
 No professional experience yet, but I have worked on several academic and personal projects to build my skills:
-- ** Personal Portfolio Website (2025): Developed a responsive portfolio site using HTML, CSS, and JavaScript. Implemented basic interactivity with JavaScript.**
-- ** Simple CRUD Application (2025): Built a small PHP-based application to manage a list of tasks, utilizing PHP for backend logic and MySQL for data storage.**
+- **Personal Portfolio Website (2025): Developed a responsive portfolio site using HTML, CSS, and JavaScript. Implemented basic interactivity with JavaScript.**
+- **Simple CRUD Application (2025): Built a small PHP-based application to manage a list of tasks, utilizing PHP for backend logic and MySQL for data storage.**
 
-##Education
+## Education
 - **Technical University of Košice
 Computer Science, 2/3 completed (2023–Present)
 Relevant coursework: Web Development, Database Systems, Programming Fundamentals**
 - **Skillbox PHP Developer Course
 Completed (2024)
 Covered PHP fundamentals, MySQL, and building dynamic web applications**
+
+## English Language
+- **Level: B1-B2 (Intermediate to Upper-Intermediate)**
+- **Actively improving through self-study, online courses, and participation in English-speaking tech communities. Comfortable reading technical documentation and communicating in professional settings.**
