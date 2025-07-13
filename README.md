@@ -1,1 +1,1 @@
-https://IagorViarenic.github.io/rsschool-cv/
+https://github.com/IagorViarenic/rsschool-cv/blob/gh-pages/cv
