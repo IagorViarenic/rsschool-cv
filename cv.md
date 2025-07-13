@@ -27,3 +27,17 @@ if (isValidEmail($email)) {
 } else {
     echo "Invalid email address";
 }
+
+## Work Experience
+
+No professional experience yet, but I have worked on several academic and personal projects to build my skills:
+
+
+
+
+
+- ** Personal Portfolio Website (2025): Developed a responsive portfolio site using HTML, CSS, and JavaScript. Implemented basic interactivity with JavaScript. Source Code
+
+
+
+- ** Simple CRUD Application (2025): Built a small PHP-based application to manage a list of tasks, utilizing PHP for backend logic and MySQL for data storage. Source Code
