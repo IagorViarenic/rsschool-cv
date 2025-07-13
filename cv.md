@@ -8,7 +8,7 @@ I am a passionate and self-motivated aspiring developer with a strong desire to 
 
 ## Skills
 - **Programming Languages**: PHP, HTML, CSS, JavaScript
-- **Tools & Technologies**: Git
+- **Tools and Technologies**: Git
 - **Methodologies**: Basic understanding of Agile development practices
 - **Development Tools**: VS Code, browser developer tools
 
