@@ -26,8 +26,8 @@ if (isValidEmail($email)) {
     echo "Valid email address";
 } else {
     echo "Invalid email address";
-}
-
+} 
+```
 ## Work Experience
 
 No professional experience yet, but I have worked on several academic and personal projects to build my skills:
